@@ -106,6 +106,7 @@ Take screenshots of the working application in a browser and save them in the sc
 ![Screenshot](./Screenshot%202026-10-16%20121020.png)
 3. Current Date and Time
 
+![Screenshot](./Screenshot%202026-10-16%20121101.png)
 4. Unknown Route (404)
 
 Note: Replace these image references with actual screenshots saved in the project. The images will not appear until the corresponding files exist.
