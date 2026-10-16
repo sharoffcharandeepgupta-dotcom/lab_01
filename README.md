@@ -10,6 +10,10 @@ Registration Number	252U1R9146
 Section	CSE GENAI 2C
 
 
+Deployment
+Live application: https://lab-01-hin1.onrender.com/
+
+
 Project Objective
 This lab demonstrates the fundamentals of creating and running a Node.js backend server using Express.js. It covers project initialization with npm, dependency installation, Express application setup, route handling, JSON responses, date and time generation, HTTP status codes, and handling unknown routes.
 The project includes a basic Node.js HTTP server and an Express server with three main routes: /, /about, and /time. It also handles unknown routes by returning a 404 status code.
