@@ -100,6 +100,7 @@ Screenshots
 Take screenshots of the working application in a browser and save them in the screenshots/ directory.
 1. Home Route
 
+![Screenshot](./Screenshot%202026-10-16%20120938.png)
 2. About Route
 
 3. Current Date and Time
