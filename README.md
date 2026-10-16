@@ -103,6 +103,7 @@ Take screenshots of the working application in a browser and save them in the sc
 ![Screenshot](./Screenshot%202026-10-16%20120938.png)
 2. About Route
 
+![Screenshot](./Screenshot%202026-10-16%20121020.png)
 3. Current Date and Time
 
 4. Unknown Route (404)
