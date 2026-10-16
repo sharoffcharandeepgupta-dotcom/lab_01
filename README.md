@@ -123,9 +123,9 @@ For deployment:
 3. Set the start command to node server.js.
 4. Ensure the application uses the port supplied through the environment variable.
 5. Test all endpoints using the public URL.
-6. Add the actual deployed URL to this README.
+6. Record the deployed URL in this README.
 The deployment URL should be recorded only after successful deployment.
-Live URL: Not deployed yet.
+Live URL: https://lab-01-hin1.onrender.com/
 Problems Faced and Solutions
 Problem	Solution
 Understanding how npm manages a project	Used npm init -y to create package.json.
