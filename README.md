@@ -109,6 +109,7 @@ Take screenshots of the working application in a browser and save them in the sc
 ![Screenshot](./Screenshot%202026-10-16%20121101.png)
 4. Unknown Route (404)
 
+![Screenshot](./Screenshot%202026-10-16%20124805.png)
 Note: Replace these image references with actual screenshots saved in the project. The images will not appear until the corresponding files exist.
 Deployment
 The application can be deployed using a Node.js-compatible hosting service, such as Render, Railway, or the university's Cloud IDE.
