@@ -3,11 +3,13 @@ Subject: Backend Development Fundamentals
 Year/Term: Year II, Term II
 University: Aurora Deemed to be University
 Faculty: Mr. Joel Prashanth D
-Student Details
-Field	Details
-Name	Sharoff Charan deep Gupta
-Registration Number	252U1R9146
-Section	CSE GENAI 2C
+## Student Details
+
+| Field | Details |
+| --- | --- |
+| Name | Sharoff Charan deep Gupta |
+| Registration Number | 252U1R9146 |
+| Section | CSE GENAI 2C |
 
 
 Deployment
